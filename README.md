@@ -1,2 +1,1 @@
-# usdk-spm
-usdk spm demo
+# test-spm
